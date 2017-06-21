@@ -1,0 +1,29 @@
+{
+  "name": "acttive-auth",
+  "version": "1.0",
+  "description": "An authentication plugin for AngularJS apps",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glauco2110/acttive-auth"
+  },
+  "keywords": [
+    "angularjs",
+    "auth",
+    "authentication"
+  ],
+  "author": "Glauco Santos <glaucodejesus2110@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/glauco2110/acttive-auth/issues"
+  },
+  "homepage": "https://github.com/glauco2110/acttive-auth#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.3",
+    "angular": "^1.5.5",
+    "angular-storage": "0.0.15"
+  }
+}
