@@ -1,6 +1,6 @@
 'use strict';
 (function () {
-    angular.module('willcrisis.angular-auth', ['ngRoute', 'ui.router', 'angular-storage'])
+    angular.module('glauco2110.acttive-auth', ['ngRoute', 'ui.router', 'angular-storage'])
         .provider('authConf', [function () {
             var options = {
                 loginState: 'login',
